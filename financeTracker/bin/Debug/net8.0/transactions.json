@@ -1,0 +1,23 @@
+[
+  {
+    "Action": "add",
+    "Amount": 500,
+    "AccountName": "Savings",
+    "Comment": "Pay",
+    "Date": "10/7/2024 8:24:11 PM"
+  },
+  {
+    "Action": "spend",
+    "Amount": 500,
+    "AccountName": "Savings",
+    "Comment": "Buing a bad",
+    "Date": "10/7/2024 8:27:10 PM"
+  },
+  {
+    "Action": "add",
+    "Amount": 1200,
+    "AccountName": "Savings",
+    "Comment": "",
+    "Date": "10/7/2024 8:33:00 PM"
+  }
+]

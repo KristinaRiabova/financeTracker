@@ -1,0 +1,14 @@
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/bin/Debug/net8.0/financeTracker
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/bin/Debug/net8.0/financeTracker.deps.json
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/bin/Debug/net8.0/financeTracker.runtimeconfig.json
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/bin/Debug/net8.0/financeTracker.dll
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/bin/Debug/net8.0/financeTracker.pdb
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/obj/Debug/net8.0/financeTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/obj/Debug/net8.0/financeTracker.AssemblyInfoInputs.cache
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/obj/Debug/net8.0/financeTracker.AssemblyInfo.cs
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/obj/Debug/net8.0/financeTracker.csproj.CoreCompileInputs.cache
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/obj/Debug/net8.0/financeTracker.dll
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/obj/Debug/net8.0/refint/financeTracker.dll
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/obj/Debug/net8.0/financeTracker.pdb
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/obj/Debug/net8.0/financeTracker.genruntimeconfig.cache
+/Users/kristina_mbp/Downloads/financeTracker_2/financeTracker/obj/Debug/net8.0/ref/financeTracker.dll

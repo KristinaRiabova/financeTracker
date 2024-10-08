@@ -1,0 +1,18 @@
+[
+	{
+		"CurrencyName":"UAH",
+		"CurrencyRate":1
+	},
+	{
+		"CurrencyName":"USD",
+		"CurrencyRate":41.22
+	},
+	{
+		"CurrencyName":"EUR",
+		"CurrencyRate":44.1
+	},
+	{
+		"CurrencyName":"PLN",
+		"CurrencyRate":10.22
+	}
+]

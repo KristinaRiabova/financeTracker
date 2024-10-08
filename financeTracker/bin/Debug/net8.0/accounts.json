@@ -1,0 +1,17 @@
+[
+  {
+    "Balance": 1121.63,
+    "Name": "Savings",
+    "Currency": "EUR"
+  },
+  {
+    "Balance": 0,
+    "Name": "Savings2",
+    "Currency": "EUR"
+  },
+  {
+    "Balance": 0,
+    "Name": "Savings3",
+    "Currency": "PLN"
+  }
+]
